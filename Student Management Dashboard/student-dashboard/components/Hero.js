@@ -7,7 +7,7 @@ export default function Hero() {
         Student Management Dashboard
       </h1>
 
-      <p className="mt-6 max-w-2xl text-lg text-indingo-100">
+      <p className="mt-6 max-w-2xl text-lg text-indigo-100">
         Manage student information, search profiles, explore details,
         and submit feedback using modern Next.js features.
       </p>
